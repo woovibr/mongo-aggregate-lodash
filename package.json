@@ -6,6 +6,9 @@
     "email": "dev@entria.com.br",
     "url": "https://github.com/entria"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "devDependencies": {
     "@babel/cli": "7.4.4",
     "@babel/core": "7.4.5",
